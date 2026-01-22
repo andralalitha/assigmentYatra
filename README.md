@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-![Screencapture Preview](https://raw.githubusercontent.com/andralalitha/assigmentYatra/main/screencapture.png)
+[View Full PDF](https://raw.githubusercontent.com/andralalitha/assigmentYatra/main/screencapture.pdf)
